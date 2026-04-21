@@ -1,0 +1,2 @@
+targets: [hm-hf, WPP, Pmax, WE, KIC, Stiffness, Modulus, Gf]
+output_dir: results/ablation

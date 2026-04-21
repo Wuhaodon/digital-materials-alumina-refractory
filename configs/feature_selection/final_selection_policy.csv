@@ -1,0 +1,14 @@
+﻿feature,priority,mandatory,rationale
+WE,100,1,consistent dual-model rank and clear elastic-recovery meaning
+hm-hf,95,1,residual depth gap retained over raw hm and hf
+Gf,90,1,preferred representative of the redundant energy-hardness group
+Pmax,85,1,retained as load-scale descriptor
+WPP,80,1,retained as plastic-energy descriptor over Irreversible
+KIC,75,1,retained for threshold-like discrimination capability
+Stiffness,70,1,retained for system-level contact constraint information
+Modulus,65,1,retained for intrinsic elasticity information
+GC,40,0,redundant with Gf
+Hardness,35,0,redundant with Gf and Modulus
+Irreversible,30,0,redundant with WPP
+hm,25,0,redundant with hm-hf
+hf,20,0,redundant with hm-hf

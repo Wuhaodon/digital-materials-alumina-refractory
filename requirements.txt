@@ -1,0 +1,15 @@
+catboost
+lightgbm
+matplotlib
+numpy
+openpyxl
+pandas
+scikit-learn
+scipy
+seaborn
+shap
+shapiq
+tabpfn
+tabpfn-extensions
+torch
+xgboost

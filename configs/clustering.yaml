@@ -1,0 +1,3 @@
+features: [Hardness, Modulus, GC, KIC]
+input_dir: data/interim/clustering_inputs
+output_dir: data/processed/clusters

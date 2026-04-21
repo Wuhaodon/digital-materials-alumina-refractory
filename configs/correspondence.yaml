@@ -1,0 +1,7 @@
+weights:
+  Hardness: 0.21
+  Modulus: 0.18
+  GC: 0.47
+  KIC: 0.15
+input_dir: data/processed/clusters
+output_dir: data/processed/unified_states

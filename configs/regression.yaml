@@ -1,0 +1,3 @@
+targets: [hm-hf, Pmax, WE, KIC, Stiffness]
+input_file: data/raw/modeling/merged_features.xlsx
+output_dir: results/cv

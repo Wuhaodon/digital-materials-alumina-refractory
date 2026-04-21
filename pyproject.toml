@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nano2"
+version = "0.1.0"
+description = "Interpretable machine learning workflow for low-carbon alumina refractory micromechanics"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "catboost",
+    "lightgbm",
+    "matplotlib",
+    "numpy",
+    "openpyxl",
+    "pandas",
+    "scikit-learn",
+    "scipy",
+    "seaborn",
+    "shap",
+    "shapiq",
+    "tabpfn",
+    "tabpfn-extensions",
+    "torch",
+    "xgboost",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
