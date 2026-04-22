@@ -63,9 +63,6 @@ Copyright (c) 2026 Wuhaodong. All rights reserved.
 
 No permission is granted to use, reproduce, modify, distribute, or commercialize this code or the associated model files without prior written permission from the copyright holder.
 
-## Citation
-
-If this repository is made publicly accessible in the future, please cite the corresponding manuscript and the released repository version.
 
 ## Notes
 
