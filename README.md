@@ -25,6 +25,14 @@ Users who wish to run the workflow must prepare their own compatible input data.
 - A typical setup is `pip install -e .`
 - The local TabPFN checkpoint is stored at `external/tabpfn_cache/tabpfn-v2-classifier.ckpt`
 
+## Quick Start
+
+```bash
+pip install -e .
+python scripts/00_clustering_preprocess.py
+python scripts/01_feature_selection_table6_benchmark.py
+```
+
 ## Repository Structure
 
 - `src/nano2/`: reusable package code
