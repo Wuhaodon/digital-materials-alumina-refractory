@@ -67,7 +67,7 @@ python scripts/01_feature_selection_table6_benchmark.py
 
 ## Rights and Use
 
-Copyright (c) 2026 Wuhaodong. All rights reserved.
+Copyright (c) 2026 Haodong Wu. All rights reserved.
 
 No permission is granted to use, reproduce, modify, distribute, or commercialize this code or the associated model files without prior written permission from the copyright holder.
 
